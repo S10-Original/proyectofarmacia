@@ -1,0 +1,41 @@
+.fondo {
+    padding: 20px 20px;
+}
+
+.login {
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    color: black;
+    background-color: rgb(39, 39, 71);
+    padding: 20px 20px 20px 20px;
+}
+
+.svg-icon {
+    height: 1.5em;
+    width: auto;
+}
+
+.estiloslinks {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    padding: 15px;
+    width:100vw;
+
+}
+
+.nav{
+    color: white;
+    font-weight: bold;
+    padding-left: 20px;
+    text-decoration: none;
+}
